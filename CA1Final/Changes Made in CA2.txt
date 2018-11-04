@@ -1,0 +1,20 @@
+Changes Made in CA2:
+-Use of SQL server to store and retrieve database for all relevant classes
+
+-DBbooking class added and Booking class updated -DBbooking class has reusable methods to add, update or delete row in database and retrieve data from database
+
+-Added summary report window to show different bookings based on different scenarios
+
+-Implemented max 15 qty for each specified date in booked tour
+
+-Changed buttons to listbox in tour catalogue, bookmarks and cart for greater code efficiency -Listbox is data-binded to observable collection 
+
+
+Things to note:
+- Test for free account login:
+  Username: admin1
+  Password: password1
+
+- Test for premium account login:
+  Username: administrator
+  Password: password1
