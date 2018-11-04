@@ -1,5 +1,5 @@
 # BookSharp
-Booksharp is a tour booking application created with C# on Visual Studio and Microsoft SQL Management Studio, for an Application Development project. 
+Booksharp is a tour booking application created with C# on Visual Studio and Microsoft SQL Server Management Studio, for an Application Development project. 
 
 ## What BookSharp Can Do
 - Provides a platform that has intuitive and user-friendly navigation, allowing customers to browse through all tours and/ or find their desired tours easily, and providing detailed information about said tours.
